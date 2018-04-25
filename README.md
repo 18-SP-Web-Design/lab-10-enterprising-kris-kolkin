@@ -9,7 +9,9 @@ Complete the jQuery function in `index.js` to:
 * When the menu button is pressed, the menu bar will animate, so that it comes in to a width of 160px and pushes the main body content of the page over by the same amount.
     * Make this a toggle, so that pressing it again causes the menu to disappear.
 * When you click any button below a picture of a ship:
-    * The other ships disappear (using some sort of jquery animation
+    * The other ships disappear (using some sort of jquery animation)
     * All buttons disappear so the choice is "permanent"
+
+A working example will be shown in class
 
 Push your repository back here when finished.
